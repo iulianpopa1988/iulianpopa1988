@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @iulianpopa1988
+
 # 💫 About Me:
+
+👋 Hi, I’m @iulianpopa1988
 🌱 I’m currently learning
 
 
